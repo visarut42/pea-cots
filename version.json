@@ -1,31 +1,31 @@
 {
-  "latestVersion": "1.0.0",
-  "buildNumber": 100,
+  "latestVersion": "1.0.1",
+  "buildNumber": 101,
   "releaseDate": "2026-09-28",
   "minRequiredVersion": "1.0.0",
   "changelog": {
     "th": [
-      "เวอร์ชันเริ่มต้นของระบบ PEA COTS (ระบบติดตามการปฏิบัติงานก่อสร้าง)",
-      "รองรับการทำงานทั้งบน Windows Desktop และ Android Mobile",
-      "ระบบแจ้งเตือนแบบเปิด-ปิดงานผ่าน Firebase Cloud Messaging (FCM)"
+      "ย้ายปุ่มตรวจสอบการอัปเดตเข้าสู่เมนูด่วน",
+      "ปรับปรุงการทำงานแบบเรียลไทม์ 3 แพลตฟอร์ม",
+      "ปรับปรุงประสิทธิภาพและความเสถียรของระบบ"
     ]
   },
   "platforms": {
     "android": {
-      "version": "1.0.0",
-      "buildNumber": 100,
+      "version": "1.0.1",
+      "buildNumber": 101,
       "forceUpdate": false,
-      "downloadUrl": "https://github.com/visarut42/pea-cots/releases/download/v1.0.0/PEA_COTS.apk",
-      "fileSize": 31058781,
-      "sha256": "0bc23c5c46ae66670d930abf220b4f0740e49e601e07718ac3d83af9181c68a5"
+      "downloadUrl": "https://github.com/visarut42/pea-cots/releases/download/v1.0.1/PEA_COTS.apk",
+      "fileSize": 31068864,
+      "sha256": ""
     },
     "windows": {
-      "version": "1.0.0",
-      "buildNumber": 100,
+      "version": "1.0.1",
+      "buildNumber": 101,
       "forceUpdate": false,
-      "downloadUrl": "https://github.com/visarut42/pea-cots/releases/download/v1.0.0/PEA_COTS_Setup.exe",
-      "fileSize": 180423680,
-      "sha256": "fef466a1fcd34c3d770b0a6490a908b5622063c36ae6d8620e5fac014cea5c47"
+      "downloadUrl": "https://github.com/visarut42/pea-cots/releases/download/v1.0.1/PEA_COTS_Setup.exe",
+      "fileSize": 180436992,
+      "sha256": ""
     }
   }
 }
